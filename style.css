@@ -1,0 +1,22 @@
+h1{
+    color:rgb(138, 38, 38);
+}
+*{
+    border: solid
+    }
+    .bgcl{
+        background-color: aliceblue;
+        display:flex;
+        flex-direction:  row ;
+        justify-content:  flex-end;
+
+    }
+    .grid{
+display:flex;
+flex-wrap: wrap;
+justify-content: space-between;
+
+
+
+
+    }
